@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// edited
 void cls();
 int add();
 int sub();
